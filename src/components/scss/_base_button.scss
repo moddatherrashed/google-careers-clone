@@ -1,0 +1,15 @@
+@import "../../scss/master.scss";
+
+button {
+      background-color: $blue;
+      color : $white;
+      border-width: 0px;
+      // width: 100px;
+      // height: 40px;
+      padding: 12px 18px 11px;
+      font-size: 12px;
+      font-family: Google Sans, Roboto, Arial, Helvetica, sans-serif;
+      font-weight: 500;
+      border-radius: 5px;
+
+}
